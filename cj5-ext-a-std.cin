@@ -4,7 +4,7 @@
 # andrewcyang
 #
 # mappings modified from openvanilla cj-ext.cin
-# and rime-cangjie cangjie5-dict-yaml
+# and rime-cangjie cangjie5-dict.yaml
 #
 %gen_inp
 %ename Custom Cangjie (version 5) with CJK Ext-A
